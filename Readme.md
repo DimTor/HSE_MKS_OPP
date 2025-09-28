@@ -1,2 +1,2 @@
-Влил в ветку develop hotfix и порешал конфликт в ручную
+Влил в ветку develop feature
 
